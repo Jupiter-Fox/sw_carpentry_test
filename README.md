@@ -1,1 +1,0 @@
-# sw_carpentry_test
